@@ -1,0 +1,6 @@
+.DS_Store
+thumbs.db
+gallery
+*/portraits/*.tga
+*/portraits/*.dds
+*/portraits/*.ktx
